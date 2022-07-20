@@ -1,0 +1,36 @@
+-- Playlist Structure
+
+-- Some Issues
+    1. URI has turned to beecrowd.
+    2. There could be junks.
+
+-- Some Features
+    1. Firstly, problem solving oriented.
+       -- Once solved enough problems on a topic, then more detailed started (example: first 22 problems are all about solving problems from beecrowd.)
+    2. Beecrowd easy problems and newcomer sheets are covered.
+    3. Final project with file system.
+
+    // Better way to watch
+        1. Understanding the memes - better quality meme images are given in every video description. Follow that drive link to get a better view.
+            -- There are memes in the thumbnails! Links are also provided!! (example: )
+            -- Watch before watching the video and after watching the video
+            -- There could be assignment to suggest memes!!!
+            --  Many of my friends do not code now.
+                But they still follow meme pages related to coding.
+                This is what this course is for.
+        2. Watch sessions first
+            -- Pause and ponder
+            (example :S2 28:10: quiz on printf)
+            -- try to solve b yourself first
+                (example: S4(2/3) 32:48 - write code for max value)
+
+        3. Solve assignments before watching next sessions
+            -- Have a quick glance at the content of the solve sessions.
+            If there are hints, ou may go for it.
+
+        4. Watch the solve classes even after finish solving.
+            -- there are important tips
+            (example: SA16 - 4:50 TLE)
+
+        5. Not all solutions are discussed.
+            -- Take help from problem discussion group and in the class
