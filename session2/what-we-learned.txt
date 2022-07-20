@@ -1,0 +1,16 @@
+What we learned----->
+
+1. Basics of data type and variable
+2. Basics of variable and constant
+	-> int, float, double: when to use, limitations, range
+3. Arithmetic Operators: +, -, *, /
+4. Assignment Operator: = 
+5. Basics of input/ output: printf and scanf
+6. Some typical errors and their sources: 
+	Compilation error: Most of the time if syntax is wrong.
+	Runtime error: & is misssing in scanf
+	Presentation error:
+		1. Case missmatch: UpperLoweR mix 
+		2. Space error: l   i ke th  is.
+		3. \n: If you by chance forget to use blackslash\n.
+7. Problems: URI/ Beecrowd - (1001 - 1010) except 1009
